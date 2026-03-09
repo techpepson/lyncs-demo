@@ -68,6 +68,3 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 Approximately **2 days**, including design decisions, implementation, polish, and testing.
 =======
-# lyncs-demo
-Codebase for the project demo of the Lyncs Africa Budget and Expense tracking app.
->>>>>>> 8a403810e3981dcc75353f9f3b3b7f6df1265105
